@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "reactTutorial @ 3c53724",
+			"uri": "gitlens://7b22726566223a2233633533373234643066616131663664633831616331356135636434383436663736316664376164222c227265706f50617468223a222f55736572732f6c756b652f707269766174652f537475647952656163742f72656163745475746f7269616c227d/Users/luke/private/StudyReact/reactTutorial?{\"ref\":\"3c53724\"}"
+		}
+	],
+	"settings": {
+		"gitlens.currentLine.enabled": true,
+		"gitlens.hovers.currentLine.over": "line"
+	}
+}
